@@ -33,25 +33,25 @@ class _PianoPageState extends State<PianoPage> {
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                         DemoWhite(
-                          text1: 'f12',
+                          text1: 'C4',
                         ),
                       ],
                     ),
@@ -63,23 +63,23 @@ class _PianoPageState extends State<PianoPage> {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           PianoBlackButton(
-                            text: 'C4',
+                            text: 'f12',
                           ),
                           PianoBlackButton(
-                            text: 'C4',
+                            text: 'f12',
                           ),
                           PianoBlackButton(
-                            text: 'C4',
+                            text: 'f12',
                           ),
                           PianoBlackButton(
                             visible: false,
-                            text: 'C4',
+                            text: 'f12',
                           ),
                           PianoBlackButton(
-                            text: 'C4',
+                            text: 'f12',
                           ),
                           PianoBlackButton(
-                            text: 'C4',
+                            text: 'f12',
                           ),
                         ],
                       ),
