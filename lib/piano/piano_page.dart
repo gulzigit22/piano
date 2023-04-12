@@ -63,23 +63,23 @@ class _PianoPageState extends State<PianoPage> {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           PianoBlackButton(
-                            text: 'f12',
+                            text: 'C4',
                           ),
                           PianoBlackButton(
-                            text: 'f12',
+                            text: 'C4',
                           ),
                           PianoBlackButton(
-                            text: 'f12',
+                            text: 'C4',
                           ),
                           PianoBlackButton(
                             visible: false,
-                            text: 'f12',
+                            text: 'C4',
                           ),
                           PianoBlackButton(
-                            text: 'f12',
+                            text: 'C4',
                           ),
                           PianoBlackButton(
-                            text: 'f12',
+                            text: 'C4',
                           ),
                         ],
                       ),
